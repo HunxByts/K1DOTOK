@@ -17,7 +17,7 @@ print(f"""{Fore.CYAN}
 
 try:
     downloadTiktok = input(f"{Fore.WHITE}[{Fore.GREEN}?{Fore.WHITE}] {Fore.CYAN}Enter Your Link Tiktok : {Fore.WHITE}")
-    print(f"{Fore.WHITE}[{Fore.GREEN}!{Fore.WHITE}] {Fore.CYAN}Prosess Download...")
+    print(f"{Fore.WHITE}[{Fore.GREEN}!{Fore.WHITE}] {Fore.CYAN}Process Download...")
     time.sleep(1)
 
     result = downloadTTOk(downloadTiktok)
